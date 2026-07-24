@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphone",
+    "category": "Electronics",
+    "price": 79.99,
+    "oldPrice": 99.99,
+    "rating": 4.8,
+    "image": "assets/images/headphone.jpg",
+    "badge": "Sale"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 149.99,
+    "oldPrice": 179.99,
+    "rating": 4.7,
+    "image": "assets/images/watch.jpg",
+    "badge": "New"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "category": "Fashion",
+    "price": 89.99,
+    "oldPrice": 110.00,
+    "rating": 4.9,
+    "image": "assets/images/shoes.jpg",
+    "badge": "Hot"
+  },
+  {
+    "id": 4,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 49.99,
+    "oldPrice": 65.00,
+    "rating": 4.6,
+    "image": "assets/images/bag.jpg",
+    "badge": "Sale"
+  },
+  {
+    "id": 5,
+    "name": "Gaming Mouse",
+    "category": "Electronics",
+    "price": 39.99,
+    "oldPrice": 49.99,
+    "rating": 4.8,
+    "image": "assets/images/mouse.jpg",
+    "badge": "New"
+  },
+  {
+    "id": 6,
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 89.99,
+    "oldPrice": 110.00,
+    "rating": 4.7,
+    "image": "assets/images/keyboard.jpg",
+    "badge": "Hot"
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 59.99,
+    "oldPrice": 79.99,
+    "rating": 4.5,
+    "image": "assets/images/speaker.jpg",
+    "badge": "Sale"
+  },
+  {
+    "id": 8,
+    "name": "DSLR Camera",
+    "category": "Electronics",
+    "price": 699.99,
+    "oldPrice": 799.99,
+    "rating": 5.0,
+    "image": "assets/images/camera.jpg",
+    "badge": "Premium"
+  },
+  {
+    "id": 9,
+    "name": "Men's Jacket",
+    "category": "Fashion",
+    "price": 69.99,
+    "oldPrice": 85.00,
+    "rating": 4.4,
+    "image": "assets/images/jacket.jpg",
+    "badge": "Sale"
+  },
+  {
+    "id": 10,
+    "name": "Women's Handbag",
+    "category": "Fashion",
+    "price": 74.99,
+    "oldPrice": 95.00,
+    "rating": 4.8,
+    "image": "assets/images/handbag.jpg",
+    "badge": "Hot"
+  },
+  {
+    "id": 11,
+    "name": "Office Chair",
+    "category": "Furniture",
+    "price": 159.99,
+    "oldPrice": 189.99,
+    "rating": 4.6,
+    "image": "assets/images/chair.jpg",
+    "badge": "New"
+  },
+  {
+    "id": 12,
+    "name": "Coffee Mug",
+    "category": "Home",
+    "price": 14.99,
+    "oldPrice": 19.99,
+    "rating": 4.5,
+    "image": "assets/images/mug.jpg",
+    "badge": "Sale"
+  },
+  {
+    "id": 13,
+    "name": "Sunglasses",
+    "category": "Accessories",
+    "price": 29.99,
+    "oldPrice": 39.99,
+    "rating": 4.7,
+    "image": "assets/images/glass.jpg",
+    "badge": "Hot"
+  },
+  {
+    "id": 14,
+    "name": "Laptop Stand",
+    "category": "Accessories",
+    "price": 34.99,
+    "oldPrice": 44.99,
+    "rating": 4.8,
+    "image": "assets/images/stand.jpg",
+    "badge": "New"
+  },
+  {
+    "id": 15,
+    "name": "Power Bank",
+    "category": "Electronics",
+    "price": 44.99,
+    "oldPrice": 55.99,
+    "rating": 4.7,
+    "image": "assets/images/powerbank.jpg",
+    "badge": "Sale"
+  },
+  {
+    "id": 16,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 299.99,
+    "oldPrice": 349.99,
+    "rating": 4.9,
+    "image": "assets/images/tablet.jpg",
+    "badge": "Premium"
+  },
+  {
+    "id": 17,
+    "name": "Water Bottle",
+    "category": "Home",
+    "price": 19.99,
+    "oldPrice": 24.99,
+    "rating": 4.6,
+    "image": "assets/images/bottle.jpg",
+    "badge": "New"
+  },
+  {
+    "id": 18,
+    "name": "Desk Lamp",
+    "category": "Home",
+    "price": 32.99,
+    "oldPrice": 39.99,
+    "rating": 4.8,
+    "image": "assets/images/lamp.jpg",
+    "badge": "Sale"
+  },
+  {
+    "id": 19,
+    "name": "Fitness Band",
+    "category": "Electronics",
+    "price": 59.99,
+    "oldPrice": 74.99,
+    "rating": 4.7,
+    "image": "assets/images/band.jpg",
+    "badge": "Hot"
+  },
+  {
+    "id": 20,
+    "name": "Travel Trolley",
+    "category": "Travel",
+    "price": 119.99,
+    "oldPrice": 149.99,
+    "rating": 4.9,
+    "image": "assets/images/trolley.jpg",
+    "badge": "Best"
+  }
+]
